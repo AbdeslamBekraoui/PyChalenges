@@ -30,7 +30,7 @@ Test your guessing skills by trying to guess the randomly chosen number within a
 
 ### Cows and Bulls
 
-A word-based game where you try to guess a hidden word and receive hints in the form of "cows" and "bulls."
+A word-based game where you try to guess a four digit number and receive hints in the form of "cows" and "bulls."
 
 ### Rock Paper Scissors
 
