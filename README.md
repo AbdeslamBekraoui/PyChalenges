@@ -9,8 +9,7 @@ A collection of entertaining and straightforward Python projects that are perfec
   - [Guess the Number](#guess-the-number)
   - [Cows and Bulls](#cows-and-bulls)
   - [Rock Paper Scissors](#rock-paper-scissors)
-  - [Password Generator](#password-generator)
-- [Getting Started](#getting-started)
+  - [age calculater](#age-calculater)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -41,3 +40,16 @@ Play the timeless game of Rock Paper Scissors against the computer and see who c
 
 calculate your age in different time units of your choice.
 
+## Usage
+
+Each project comes with its own set of instructions provided in the respective project folders. Simply follow the instructions in the project's README or source code file.
+
+## Contributing
+
+Contributions are welcome! If you have ideas for new projects, improvements to existing projects, or any suggestions, feel free to fork this repository, make your changes, and submit a pull request.
+
+## License
+
+This repository is open-source and available under the MIT License. You're encouraged to use, modify, and share the projects as per the terms of the license.
+
+Thank you for exploring my repository! Happy coding!
