@@ -40,7 +40,7 @@ def player_input(board) :
         board[player-1] = current_player
         return board
     else :
-        print("Please choose a number from one to nine!")
+        print("Invalid input!")
 
 # switch players
 
@@ -115,4 +115,7 @@ while GAME_RUNNING :
         game_board(board)
         player_input(board)
         check_result(board)
-        players()
+        if a :
+            players()
+        else :
+            continue
