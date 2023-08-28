@@ -113,7 +113,7 @@ while GAME_RUNNING :
         GAME_RUNNING = False
     else :
         game_board(board)
-        player_input(board)
+        a = player_input(board)
         check_result(board)
         if a :
             players()
