@@ -10,6 +10,7 @@ A collection of entertaining and straightforward Python projects that are perfec
   - [Cows and Bulls](#cows-and-bulls)
   - [Rock Paper Scissors](#rock-paper-scissors)
   - [age calculater](#age-calculater)
+  - [Snake Game](#snake-game)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -38,7 +39,11 @@ Play the timeless game of Rock Paper Scissors against the computer and see who c
 
 ### age calculater 
 
-calculate your age in different time units of your choice.
+Calculate your age in different time units of your choice.
+
+### Snake Game 
+
+Introducing my debut in game development using Pygame the classic Snake game. Embark on a journey of nostalgia as you control the snake, aiming to grow.
 
 ## Usage
 
