@@ -11,6 +11,7 @@ A collection of entertaining and straightforward Python projects that are perfec
   - [Rock Paper Scissors](#rock-paper-scissors)
   - [age calculater](#age-calculater)
   - [Snake Game](#snake-game)
+  - [Pong Game](#pong-game)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -44,6 +45,10 @@ Calculate your age in different time units of your choice.
 ### Snake Game 
 
 Introducing my debut in game development using Pygame the classic Snake game. Embark on a journey of nostalgia as you control the snake, aiming to grow.
+
+### Pong Game
+
+This is a classic Pong game implemented in Python using the Pygame library.
 
 ## Usage
 
