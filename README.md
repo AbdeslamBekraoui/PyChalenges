@@ -32,7 +32,7 @@ Test your guessing skills by trying to guess the randomly chosen number within a
 
 ### Cows and Bulls
 
-A game where you try to guess a four digit number and receive hints in the form of "cows" if the right number is in the correct place and "bulls is the right number is not in the correct spot."
+A game where you try to guess a four digit number and receive hints in the form of "cows" if the right number is in the correct place and "bulls" if the right number is not in the correct spot."
 
 ### Rock Paper Scissors
 
